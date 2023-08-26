@@ -1,0 +1,58 @@
+body{
+	height: 100%;
+	width: 100%;
+	background: #1C176C;
+}
+.titulo{
+	position: absolute;
+    top: 10px;
+    right: 5px;
+    background-color: #1C176C;
+    color: #fff;
+    font-style: italic;   
+}
+.imagen{
+	height: 300px; 
+	width: 500px;
+	border-radius: 40px;
+	margin-left: 180px;
+	position: absolute;
+	margin-top: 180px;
+}
+.neverita{
+	color: white;
+	margin-left: 270px;
+	margin-top: 90px;
+	position: absolute;
+}
+.letra{
+	color: white;
+	text-align: center;
+	left: 750px;
+	position: absolute;
+	font-size: 15px;
+}
+.audio1{
+	margin-left: 270px;
+	margin-top: 550px;
+}
+.spotify{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+    top: 80px;
+    right: 72px;
+    background-color: #1C176C;
+    color: #fff;
+    font-style: italic; 
+}
+.youtube{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+    top: 130px;
+    right: 72px;
+    background-color: #1C176C;
+    color: #fff;
+    font-style: italic; 
+}
